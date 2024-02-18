@@ -21,8 +21,8 @@ Project developed by Maksym Malichenko, Filip Ptak and Maciej Jastrzębski.
 
 #### How to compile
 ```
-git clone https://github.com/Malichenko-Maksym/YouTube-stats
-cd YouTube-stats
+git clone https://github.com/ptakf/YouTubeStats
+cd YouTubeStats
 mvn package
 ```
 
